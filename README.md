@@ -26,7 +26,7 @@ This project implements a playable Tic Tac Toe game. Players take turns entering
 <h2>UI:</h2>
 
 <p align="center">
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="AOS & JS"/>
+<img src="https://imgur.com/Iqz49nZ.png" height="20%" width="20%" alt="AOS & JS"/>
 <br />
 </p>
 <!--
